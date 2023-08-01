@@ -1,6 +1,5 @@
 ---
 title: Welcome
-author: Dexter
 date: 2023-08-01 13:47:00 +0800
 categories: [Blogging, Tutorial]
 tags: [getting started]
